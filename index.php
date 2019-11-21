@@ -15,7 +15,7 @@
 	<a href="displaymethod.php"><button>display method</button></a><br>
      <a href="getpost.php"><button>getpost</button></a><br>
       <a href="getmethod"><button>getmethod</button></a><br>
-	<a href="welcome.php">welcome </a>
+	<a href="welcome.php">back </a>
 
 </body>
 </html>
